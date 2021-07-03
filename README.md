@@ -15,6 +15,7 @@ USEFUL COMMANDS:
 uvicorn main:app --reload
 
 PROJECT DOCUMENTATION:
+localhost:8000/redoc
 
 Swagger ui to check apis:
 
@@ -24,6 +25,6 @@ DEPLOYMENT:
 
 Tried deta but unable to deploy (to check again)
 
-![Screenshot from 2021-07-03 20-04-44](https://user-images.githubusercontent.com/23046642/124360422-5e6e2e80-dc47-11eb-89fb-0beba8626ad0.png)localhost:8000/redoc
+![Screenshot from 2021-07-03 20-04-44](https://user-images.githubusercontent.com/23046642/124360422-5e6e2e80-dc47-11eb-89fb-0beba8626ad0.png)
 
 
